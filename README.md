@@ -1,4 +1,4 @@
-# Luchonss Summary 📃
+# Lukenssss Summary 📃
 
 Discord: lucaaaa#8351
 
