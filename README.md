@@ -6,7 +6,7 @@ Discord: lucaaaa#8351
 ### Facts about me:
 
 - I'm a 17 yo Developer
-- I was born in Argentina
+- Born in Argentina
 - Proud of my country
 - Love swimming 
 - Fan of anime
