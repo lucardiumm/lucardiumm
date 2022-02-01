@@ -16,7 +16,7 @@ Discord: lucaaaa#8351
 
 <img align="left" alt="TypeScript" width="26px" src="https://sebastian-gomez.com/typescript.png" />
 <img align="left" alt="GO" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1200px-Go_Logo_Blue.svg.png" />
-<img align="left" alt="Ruby" width="40px" src="./ruby.png" />
+<img align="left" alt="Ruby" width="35px" src="./ruby.png" />
 <br />
 
 ---
