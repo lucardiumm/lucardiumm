@@ -10,6 +10,7 @@ Discord: lucaaaa#8351
 - Proud of my country
 - Love swimming 
 - Fan of anime
+- Learning Rust
 
 ### Knowledge:
 
