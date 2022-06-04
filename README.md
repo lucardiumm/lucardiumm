@@ -14,5 +14,3 @@ Discord: lucaaaa#8351
 <br />
 
 ---
-
-![Lukenssss GitHub stats](https://github-readme-stats.vercel.app/api?username=Lukenssss&show_icons=true&theme=dracula)
