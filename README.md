@@ -1,6 +1,4 @@
-# Lukenssss Summary 📃
-
-Discord: lucaaaa#8351
+# Lukenssss Summary 
 
 
 ### Facts about me:
