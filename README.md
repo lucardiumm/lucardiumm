@@ -1,5 +1,3 @@
-![Banner](./Banner.png)
-
 ## Developer from Argentina
 
 ### Connect with me:
