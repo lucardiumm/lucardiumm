@@ -5,7 +5,7 @@
 <p align="center">Estudiante de computación y desarrollador de software front end</p>
 
 <center>
-<img src="https://res.cloudinary.com/dtkwfquw8/image/upload/fl_preserve_transparency/v1769656378/image-iHFK2I60hobeZy9iO4mGxPM4ob1YYs_bf3pev.jpg" height="100" alt="PC"  />
+<img align="center" src="https://res.cloudinary.com/dtkwfquw8/image/upload/fl_preserve_transparency/v1769656378/image-iHFK2I60hobeZy9iO4mGxPM4ob1YYs_bf3pev.jpg" height="100" alt="PC"  />
 </center>
 
 ###
