@@ -1,4 +1,4 @@
-<h1 align="center">Un gusto! soy Luca</h1> <img src="https://res.cloudinary.com/dtkwfquw8/image/upload/fl_preserve_transparency/v1769655793/image-7EsAQdw5NUYcdw52hBwTqNGgip9vcR_ip0qav.jpg" height="35" alt="Dino"  />
+<h1 align="center">Buenas! soy Luca</h1> <img src="https://res.cloudinary.com/dtkwfquw8/image/upload/fl_preserve_transparency/v1769655793/image-7EsAQdw5NUYcdw52hBwTqNGgip9vcR_ip0qav.jpg" height="35" alt="Dino"  />
 
 <p align="center">Estudiante de computación y desarrollador de software front end</p>
 
