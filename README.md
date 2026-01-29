@@ -1,4 +1,9 @@
-<h1 align="center">Buenas! soy Luca</h1> <img src="https://res.cloudinary.com/dtkwfquw8/image/upload/fl_preserve_transparency/v1769655793/image-7EsAQdw5NUYcdw52hBwTqNGgip9vcR_ip0qav.jpg" height="35" alt="Dino"  />
+<center>
+    <div style="display: flex; flex-direction: row; text-align:center; gap: 10px;">
+        <h1>Buenas! soy Luca</h1> 
+        <img src="https://res.cloudinary.com/dtkwfquw8/image/upload/fl_preserve_transparency/v1769655793/image-7EsAQdw5NUYcdw52hBwTqNGgip9vcR_ip0qav.jpg" height="50" alt="Dino"  />
+    </div>
+</center>
 
 <p align="center">Estudiante de computación y desarrollador de software front end</p>
 
@@ -18,11 +23,5 @@
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
     </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/lucardiumm/lucardiumm/output/snake.svg" alt="Snake animation" />
 
 ###
