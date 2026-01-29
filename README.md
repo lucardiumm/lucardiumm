@@ -1,5 +1,5 @@
 <center>
-    <h2>Buenas! soy Luca</h2> 
+    <h1>Buenas! soy Luca</h1> 
 </center>
 
 <p align="center">Estudiante de computación y desarrollador de software front end</p>
