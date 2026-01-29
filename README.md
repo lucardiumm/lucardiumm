@@ -11,8 +11,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/78/1a/51/781a5128e733c6a36aa6a10814e19548.gif"  />
-
 <div align="left">
     <a href="">
         <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo" />
