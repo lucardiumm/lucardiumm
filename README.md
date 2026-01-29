@@ -1,4 +1,4 @@
-<h2 align="left">Un gusto! 💙 soy Luca (AKA Luki)</h2>
+<h2 align="left">Un gusto! 💙 soy Luca</h2>
 
 <p>Estudiante de ingenieria y desarrollador de software front end</p>
 
