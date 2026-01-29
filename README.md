@@ -1,4 +1,4 @@
-<h2 align="center">Un gusto! 💙 soy Luca</h2>
+<h2 align="center">Un gusto! soy Luca</h2> <img src="./assets/Dino.png" height="35" alt="Dino"  />
 
 <p align="center">Estudiante de computación y desarrollador de software front end</p>
 
