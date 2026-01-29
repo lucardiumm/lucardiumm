@@ -1,6 +1,6 @@
 <h2 align="left">Un gusto! 💙 soy Luca</h2>
 
-<p>Estudiante de ingenieria y desarrollador de software front end</p>
+<p>Estudiante de computación y desarrollador de software front end</p>
 
 ###
 
@@ -12,19 +12,6 @@
 ###
 
 <img align="right" height="150" src="https://i.pinimg.com/originals/78/1a/51/781a5128e733c6a36aa6a10814e19548.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img src="https://static-00.iconduck.com/assets.00/expo-icon-512x462-3a87htea.png" height="30" alt="Expo (React Native) logo"  />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/2560px-MongoDB_Logo.png" height="30" alt="MongoDB logo"  />
-  <img src="https://static-00.iconduck.com/assets.00/postgresql-icon-1987x2048-v2fkmdaw.png" height="30" alt="PostgreSQL logo"  />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" height="30" alt="NodeJS logo"  />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" height="30" alt="Tailwind logo"  />
-</div>
-
-###
 
 <div align="left">
     <a href="">
