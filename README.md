@@ -1,11 +1,10 @@
 <center>
-    <div style="display: flex; flex-direction: row; text-align:center; gap: 10px;">
-        <h2>Buenas! soy Luca</h1> 
-        <img src="https://res.cloudinary.com/dtkwfquw8/image/upload/fl_preserve_transparency/v1769655793/image-7EsAQdw5NUYcdw52hBwTqNGgip9vcR_ip0qav.jpg" height="50" alt="Dino"  />
-    </div>
+    <h1>Buenas! soy Luca</h1> 
 </center>
 
 <p align="center">Estudiante de computación y desarrollador de software front end</p>
+<center>
+<img src="https://res.cloudinary.com/dtkwfquw8/image/upload/fl_preserve_transparency/v1769656378/image-iHFK2I60hobeZy9iO4mGxPM4ob1YYs_bf3pev.jpg" height="100" alt="PC"  /></center>
 
 ###
 
