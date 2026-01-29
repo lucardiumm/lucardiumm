@@ -1,6 +1,6 @@
 <center>
     <div style="display: flex; flex-direction: row; text-align:center; gap: 10px;">
-        <h1>Buenas! soy Luca</h1> 
+        <h2>Buenas! soy Luca</h1> 
         <img src="https://res.cloudinary.com/dtkwfquw8/image/upload/fl_preserve_transparency/v1769655793/image-7EsAQdw5NUYcdw52hBwTqNGgip9vcR_ip0qav.jpg" height="50" alt="Dino"  />
     </div>
 </center>
