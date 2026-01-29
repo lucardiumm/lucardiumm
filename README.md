@@ -1,6 +1,6 @@
 <h1 align="center">Buenas! soy Luca</h1> 
 
-<p align="center">Estudiante de computación y desarrollador de software front end</p>
+<p align="center">Estudiante de Ciencias de la Computación en UBA - Desarrollador React Native autodidacta desde hace más de 5 años, creando proyectos y aplicaciones. Me interesa crecer en un entorno profesional donde pueda aportar ideas, resolver desafíos técnicos y trabajar en equipo con diseñadores y otros desarrolladores</p>
 
 <img align="center" src="https://res.cloudinary.com/dtkwfquw8/image/upload/fl_preserve_transparency/v1769656378/image-iHFK2I60hobeZy9iO4mGxPM4ob1YYs_bf3pev.jpg" height="100" alt="PC"  />
 
