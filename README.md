@@ -1,6 +1,6 @@
-<h2 align="left">Un gusto! 💙 soy Luca</h2>
+<h2 align="center">Un gusto! 💙 soy Luca</h2>
 
-<p class='text-center'>Estudiante de computación y desarrollador de software front end</p>
+<p align="center">Estudiante de computación y desarrollador de software front end</p>
 
 ###
 
